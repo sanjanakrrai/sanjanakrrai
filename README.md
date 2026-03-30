@@ -13,7 +13,6 @@
 - 🚀 Focused on building real-world projects  
 ---
 
-
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages
@@ -30,7 +29,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
 </p>
----
 
 ## 🚀 Featured Projects  
 
@@ -40,25 +38,18 @@
 🔹 Real-time recommendations with optimized similarity matrix  
 🔹 Deployed on Streamlit  
 
-👉 🔗 Live App:  
+🔗 Live App:  
 https://movie-recommender-system-lnvybrc24gnercbj598c3u.streamlit.app  
 
-👉 💻 GitHub Repo:  
+💻 GitHub Repo:  
 https://github.com/sanjanakrrai/movie-recommender-system  
----
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanakrrai&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanakrrai&theme=tokyonight" />
-</p>
----
 
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-rai-13039a3a5)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sanjanakrrai)
----
+
 
 ⭐ *Always learning, building and improving!*
