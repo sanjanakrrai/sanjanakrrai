@@ -59,9 +59,8 @@ https://github.com/sanjanakrrai/movie-recommender-system
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjana-rai-13039a3a5)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-rai-13039a3a5)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sanjanakrrai)
-
 ---
 
 ⭐ *Always learning, building and improving!*
