@@ -1,52 +1,91 @@
-# Hi 👋, I'm Sanjana Kumari
+# Hi 👋, I'm Sanjana Kumari  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
+</p>
+
+---
+
+## 🚀 About Me  
+- 🎓 B.Tech IT Student  
+- 💻 Aspiring Data Scientist  
+- 🤖 Passionate about Machine Learning & AI  
+- 🚀 Building real-world ML projects & deployed apps  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-🎓 B.Tech IT Student  
-💻 Aspiring Data Scientist  
-🤖 Interested in Machine Learning & Artificial Intelligence
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 
----
-
-## 🚀 Projects
-
-🔹 Movie Recommendation System  
-- ML-based recommendation engine using cosine similarity  
-- Streamlit deployed web app  
-👉 https://movie-recommender-system-lnvybrc24gnercbj598c3u.streamlit.app  
-
----
-
-## 🛠️ Tech Stack
-
-- Languages: Python, C, C++, SQL  
-- ML/Data: Pandas, NumPy, Scikit-Learn  
-- Web: HTML, CSS, Streamlit  
-- Tools: Git, GitHub, VS Code  
+### 🌐 Tools & Platforms
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📫 Connect with me
+## 🚀 Featured Project  
 
-- LinkedIn: https://www.linkedin.com/in/sanjana-rai-13039a3a5  
-- Email: sanjanakrrai@gmail.com  
+### 🎬 Movie Recommendation System  
+🔹 ML-based recommendation engine using cosine similarity  
+🔹 Built using Python, Pandas, Scikit-Learn  
+🔹 Integrated TMDB API for posters  
+🔹 Deployed using Streamlit  
+
+👉 🔗 Live App:  
+https://movie-recommender-system-lnvybrc24gnercbj598c3u.streamlit.app  
+
+👉 💻 GitHub Repo:  
+https://github.com/sanjanakrrai/movie-recommender-system  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanakrrai&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanakrrai&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakrrai&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanakrrai&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjana-rai-13039a3a5)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sanjanakrrai)
 
 ---
 
 ⭐ Always learning, building and improving!
-<!--
-**sanjanakrrai/sanjanakrrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
