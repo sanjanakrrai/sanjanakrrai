@@ -22,24 +22,23 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql" />
+</p>
+
+---
 
 ### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
+---
 
 ### 🌐 Tools & Platforms
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
+</p>
 ---
 
 ## 🚀 Featured Projects  
