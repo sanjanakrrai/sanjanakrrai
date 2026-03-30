@@ -45,7 +45,6 @@ https://movie-recommender-system-lnvybrc24gnercbj598c3u.streamlit.app
 
 👉 💻 GitHub Repo:  
 https://github.com/sanjanakrrai/movie-recommender-system  
-
 ---
 
 ## 📊 GitHub Stats  
@@ -54,7 +53,6 @@ https://github.com/sanjanakrrai/movie-recommender-system
   <img src="https://github-readme-stats.vercel.app/api?username=sanjanakrrai&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanakrrai&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me  
