@@ -1,11 +1,7 @@
 # Hi 👋, I'm Sanjana Kumari  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real+World+Projects;Open+to+Internships+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjanakrrai&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Aspiring+Data+Scientist;Machine+Learning;Building+Real+World+Projects;" />
 </p>
 
 ---
@@ -15,28 +11,23 @@
 - 💻 Aspiring Data Scientist  
 - 🤖 Passionate about Machine Learning & AI  
 - 🚀 Focused on building real-world projects  
-- 🎯 Currently learning DSA + ML  
-
 ---
+
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,sql" />
 </p>
 
----
-
 ### 📊 Data Science & ML
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
 </p>
 
----
-
 ### 🌐 Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
 </p>
 ---
@@ -57,35 +48,11 @@ https://github.com/sanjanakrrai/movie-recommender-system
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjanakrrai&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjanakrrai&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanakrrai&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanakrrai&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanakrrai&theme=tokyo-night" />
 </p>
 
 ---
