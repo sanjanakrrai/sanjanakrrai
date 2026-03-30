@@ -1,4 +1,8 @@
 # Hi 👋, I'm Sanjana Kumari
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)
 
 🎓 B.Tech IT Student  
 💻 Aspiring Data Scientist  
